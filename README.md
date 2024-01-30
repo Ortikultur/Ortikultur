@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics and ML projects**
 
-- 👨‍💻 All of my projects are available at [medium.com/madebolakayode](medium.com/madebolakayode)
+- 👨‍💻 All of my projects are available at [medium.com](medium.com/madebolakayode)
 
-- 📝 I regularly write articles on [Data Analytics | AI | Machine Learning](Data Analytics | AI | Machine Learning)
+- 📝 I regularly write articles on [Data Analytics | AI | Machine Learning]
 
 - 💬 Ask me about **Python, SQL, Power BI**
 
