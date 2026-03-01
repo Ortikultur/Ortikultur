@@ -1,21 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adebola Kayode</h1>
-<h3 align="center">A passionate Data Analyst | ML Enthusiast from 🇳🇬</h3>
-
-- 🔭 I’m currently working on **Developing ML applications**
-
-- 🌱 I’m currently learning **Unsupervised Learning and Neural Networks**
-
-- 👯 I’m looking to collaborate on **Data Analytics and ML projects**
-
-- 👨‍💻 All of my projects are available at [medium.com](medium.com/madebolakayode)
-
-- 📝 I regularly write articles on [Data Analytics | AI | Machine Learning]
-
-- 💬 Ask me about **Python, SQL, Power BI**
-
-- 📫 How to reach me **madebolakayode@outlook.com**
-
-- ⚡ Fun fact **I love football and story writing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
